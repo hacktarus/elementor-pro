@@ -8,6 +8,7 @@
  * Author URI: https://elementor.com/
  *
  * Text Domain: elementor-pro
+ * Update URL: https://github.com/hacktarus/topgpl-elementor-pro.git
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
